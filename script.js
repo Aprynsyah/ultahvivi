@@ -326,28 +326,28 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            image: './images/photo1.png'
+            image: 'images/photo1.png'
         },
         {
-            image: './images/photo2.jpg'
+            image: 'images/photo2.jpg'
         },
         {
-            image: './images/photo3.jpg'
+            image: 'images/photo3.jpg'
         },
         {
-            image: './images/photo4.jpg'
+            image: 'images/photo4.jpg'
         },
         {
-            image: './images/photo5.jpg'
+            image: 'images/photo5.jpg'
         },
         {
-            image: './images/photo6.jpg'
+            image: 'images/photo6.jpg'
         },
         {
-            image: './images/photo7.jpg'
+            image: 'images/photo7.jpg'
         },
         {
-            image: './images/photo8.jpg'
+            image: 'images/photo8.jpg'
         }
     ];
     
